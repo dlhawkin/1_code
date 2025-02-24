@@ -1,1 +1,5 @@
 My favorite color is blue
+
+
+println(read("dlhawkin_asg3_output.txt", String))
+
